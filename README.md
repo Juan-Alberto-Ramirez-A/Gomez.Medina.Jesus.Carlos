@@ -1,8 +1,11 @@
 # Gomez.Medina.Jesus.Carlos
 
-Universidad Politecnica de la Zona Metropolitana de Guadalajara.
+Portafolio de Evidencias.
 
-Cinemática de Robots.
+Universidad Politécnica de la Zona Metropolitana de Guadalajara.
 
 Ingeniería Mecatrónica 8°B.
 
+Cinemática de Robots.
+
+Profesor: Carlos Enrique Moran Garabito.
